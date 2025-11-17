@@ -7,6 +7,11 @@
 			"files": [
 				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/Niagara/NS_JumpBeam.uasset",
+				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/Niagara/NS_JumpArc.uasset",
+				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/Niagara/SetPositionFromArray.uasset",
+				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/Niagara/SpawnFromArray.uasset",
+				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/Niagara/M_Arc.uasset",
+				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/Niagara/NS_JumpArc_E.uasset",
 				"C:/Users/samue/Documents/Unreal Projects/FeatureProject/Content/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/samue/Documents/Unreal Projects/FeatureProject/Content/Input/IMC_Default.uasset",
 				"C:/Users/samue/Documents/Unreal Projects/FeatureProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
