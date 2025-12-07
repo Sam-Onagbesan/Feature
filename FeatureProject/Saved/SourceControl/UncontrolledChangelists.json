@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/samue/Documents/GitHub/Feature/FeatureProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/samue/Documents/GitHub/Feature/FeatureProject/Content/Niagara/NS_JumpArc.uasset",
+				"C:/Users/samue/Documents/GitHub/Feature/FeatureProject/Content/Niagara/NS_JumpArc_E.uasset",
+				"C:/Users/samue/Documents/GitHub/Feature/FeatureProject/Content/Niagara/NS_JumpBeam.uasset",
+				"C:/Users/samue/Documents/GitHub/Feature/FeatureProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/D0/3NZ9W3YHMTVX4FCIMY38GV.uasset",
+				"C:/Users/samue/Documents/GitHub/Feature/FeatureProject/Content/Niagara/29fcb57d9ac8363375c3050d5c4933ac.uasset",
 				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/Niagara/NS_JumpBeam.uasset",
 				"C:/Users/Ronin/Documents/GitHub/Feature/FeatureProject/Content/Niagara/NS_JumpArc.uasset",
